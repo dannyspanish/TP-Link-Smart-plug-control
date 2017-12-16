@@ -10,4 +10,5 @@ Dependencies:
   - Reliable online webcam feed
 
 
-I'm open to any suggestions and improvements. ENJOY :D
+I'm open to any suggestions and improvements. ENJOY :D <br><br>
+<img src="https://thumbs.gfycat.com/ConfusedScrawnyDoctorfish-size_restricted.gif" alt="working hard">
